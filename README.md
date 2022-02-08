@@ -1,10 +1,10 @@
 ### Hy guys!
 
-My name is Henrique and I am graduating as a we designer jr. I don't know much yet, but I hope to be cooperating with rich contributions to the dev community soon!
+I'm graduating as a web designer jr. I don't know much yet, but I hope to be cooperating with rich contributions to the dev community soon!
 
 ### About me
 
-- 🔭 Jr. Developer 
-- 📫 henrique.tagashira@gmail.com
-- 📫 be.net/henrique-tagashira
-- 📫 instagram.com/designbyheat
+- 🔭 Working to become a we designer
+- 💻 HTML5 and CSS
+- 📫 Contacts: <a href="be.net/henrique-tagashira"> Behance</a> | <a href="https://www.linkedin.com/in/henrique-tagashira"/> Linkedin </a> | henrique.tagashira@gmail.com
+- 🎸🎺 I'm multi instrumentist | Bass and Trumpet
